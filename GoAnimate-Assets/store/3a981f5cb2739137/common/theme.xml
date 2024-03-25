@@ -19743,6 +19743,7 @@
   <sound id="orchestral_transition_stinger_03.mp3" name="FX - Transition - mystery short" downloadtype="progressive" subtype="soundeffect" duration="3500" enable="Y" is_premium="N" aid="31423" money="0" sharing="0"/>
   <sound id="orchestral_transition_stinger_06.mp3" name="FX - Transition - ancient hero" downloadtype="progressive" subtype="soundeffect" duration="4598" enable="Y" is_premium="N" aid="31424" money="0" sharing="0"/>
   <sound id="orchestral_transition_stinger_07.mp3" name="FX - Transition - danger" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="31425" money="0" sharing="0"/>
+  <sound id="monitorcw.mp3" name="Monitor CW avatar" downloadtype="progressive" subtype="soundeffect" duration="4545" enable="Y" is_premium="N" aid="314256" money="0" sharing="0"/>
   <sound id="playful_navigation_04.mp3" name="FX - Clicker - up" downloadtype="progressive" subtype="soundeffect" duration="496" enable="Y" is_premium="N" aid="31426" money="0" sharing="0"/>
   <sound id="playful_navigation_05.mp3" name="FX - Clicker - down" downloadtype="progressive" subtype="soundeffect" duration="575" enable="Y" is_premium="N" aid="31427" money="0" sharing="0"/>
   <sound id="playful_navigation_06.mp3" name="FX - Guiro" downloadtype="progressive" subtype="soundeffect" duration="731" enable="Y" is_premium="N" aid="31428" money="0" sharing="0"/>
