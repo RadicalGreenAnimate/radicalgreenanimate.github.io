@@ -1,0 +1,5 @@
+<cross-domain-policy>
+<allow-access-from domain="*"/>
+  <allow-access-from domain="*.flickr.com" secure="true" />
+<site-control permitted-cross-domain-policies="all"/>
+</cross-domain-policy>
